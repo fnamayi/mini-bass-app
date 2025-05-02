@@ -1,3 +1,4 @@
+# mini-bass-app
 # MiniKit Template
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-onchain --mini`](), configured with:
